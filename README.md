@@ -1,4 +1,4 @@
-# Stimmungsquantifizierung für den Preis von Bitcoin mit Deep-Learning
+# Stimmungsquantifizierung für den Preis von Bitcoin mit Deep Learning
 
 ## Abstract - Quantifying Sentiment for the Price of Bitcoin using Deep Learning
 
